@@ -6,22 +6,7 @@ This repository contains a machine learning pipeline to predict whether an emplo
 
 ##  Project Structure
 
-insurance_enrollment_prediction/
-├── data/
-│ └── employee_data.csv # Raw synthetic employee dataset
-├── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ └── 02_model_training.ipynb
-├── reports/ # Generated plots and reports
-├── models/ # Saved model and preprocessor
-├── src/
-│ ├── data_processing.py # Data loading and preprocessing functions
-│ └── model.py # Model training, evaluation, and saving functions
-├── app/
-│ ├── main.py # FastAPI app serving the model
-│ └── requirements.txt # FastAPI-specific dependencies
-├── requirements.txt # Full environment dependencies
-└── README.md
+<pre> insurance_enrollment_prediction/ ├── data/ │ └── employee_data.csv # Raw synthetic employee dataset ├── notebooks/ │ ├── 01_data_preprocessing.ipynb # Notebook for preprocessing │ └── 02_model_training.ipynb # Notebook for training and evaluation ├── reports/ # Generated plots and reports │ ├── confusion_matrix.png │ ├── roc_curve.png │ └── report.pdf ├── models/ # Saved model and preprocessor │ ├── model.pkl │ └── preprocessor.pkl ├── src/ │ ├── data_processing.py # Data loading and preprocessing functions │ └── model.py # Model training, evaluation, and saving functions ├── app/ │ ├── main.py # FastAPI app serving the model │ └── requirements.txt # FastAPI-specific dependencies ├── requirements.txt # Full environment dependencies ├── report.md # Technical summary and findings └── README.md # Instructions and documentation </pre>
 
 
 
