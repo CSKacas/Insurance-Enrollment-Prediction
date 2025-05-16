@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+xgboost
+jupyter
+fastapi
+uvicorn
+joblib
+plotly
+kaleido
+mlflow

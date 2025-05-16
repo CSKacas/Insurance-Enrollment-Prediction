@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Chetan%20K/insurance_enrollment_prediction/notebooks/mlruns/0/17360ef3c81849b581eb5f2f1c6fd50b/artifacts
+end_time: 1747373550479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17360ef3c81849b581eb5f2f1c6fd50b
+run_name: bold-elk-614
+run_uuid: 17360ef3c81849b581eb5f2f1c6fd50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747373543164
+status: 3
+tags: []
+user_id: Chetan K
